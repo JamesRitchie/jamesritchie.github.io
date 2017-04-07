@@ -8,6 +8,8 @@ SITEURL = 'http://jmsrt.ch'
 
 PATH = 'content'
 
+THEME = 'theme'
+
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
