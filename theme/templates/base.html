@@ -13,7 +13,7 @@
                 } else { 
                     path = "/" + location.pathname;
                 } 
-                location.href = "{{ site.url }}" + path + location.search + location.hash;
+                location.href = "{{ SITEURL }}" + path + location.search + location.hash;
             }
         </script>
         {% endif %}
