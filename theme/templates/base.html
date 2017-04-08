@@ -5,9 +5,15 @@
         <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
         {% if not RELATIVE_URLS %}
         <script type="text/javascript">
-            // Hack necesarry as Gitlab doesn't have 301 redirects yet.
-            if (window.location.protocol !== 'https') {
-                window.location.replace('https:' + window.location.href.substring(window.location.protocol.length))
+            // Hack necesary as Gitlab doesn't have 301 redirects yet.
+            if (location.protocol != 'https:' || location.hostname.search("gitlab.io") != -1) { 
+                var path;
+                if (location.pathname.lastIndexOf("/", 0) === 0) { 
+                    path = location.pathname;
+                } else { 
+                    path = "/" + location.pathname;
+                } 
+                location.href = "{{ site.url }}" + path + location.search + location.hash;
             }
         </script>
         {% endif %}
