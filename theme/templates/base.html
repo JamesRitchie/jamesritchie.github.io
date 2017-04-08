@@ -3,6 +3,14 @@
 <head>
         {% block head %}
         <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+        {% if not RELATIVE_URLS %}
+        <script type="text/javascript">
+            // Hack necesarry as Gitlab doesn't have 301 redirects yet.
+            if (window.location.protocol !== 'https') {
+                window.location.replace('https:' + window.location.href.substring(window.location.protocol.length))
+            }
+        </script>
+        {% endif %}
         <meta charset="utf-8" />
         {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
