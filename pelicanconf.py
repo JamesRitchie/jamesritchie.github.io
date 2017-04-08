@@ -7,8 +7,10 @@ SITENAME = "James Ritchie"
 SITEURL = 'https://jmsrt.ch'
 
 PATH = 'content'
+STATIC_PATHS = ['']
 
 THEME = 'theme'
+
 
 TIMEZONE = 'Europe/London'
 
