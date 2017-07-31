@@ -59,6 +59,16 @@
                 max-width:none
             }
         }
+        #banner h1 a {
+            text-decoration: none;
+            color: inherit;
+        }
+        a {
+            color: blue;
+        }
+        .entry-title a {
+            color: inherit;
+        }
     </style>
 </head>
 
@@ -85,6 +95,7 @@
         {% block content %}
         {% endblock %}
         <footer id="contentinfo" class="body">
+                <hr/>
                 <small>
                 Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
                 which takes great advantage of <a href="http://python.org">Python</a>.
