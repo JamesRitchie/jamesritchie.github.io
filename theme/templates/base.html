@@ -3,20 +3,6 @@
 <head>
         {% block head %}
         <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
-        {% if not RELATIVE_URLS %}
-        <script type="text/javascript">
-            // Hack necesary as Gitlab doesn't have 301 redirects yet.
-            if (location.protocol != 'https:' || location.hostname.search("gitlab.io") != -1) { 
-                var path;
-                if (location.pathname.lastIndexOf("/", 0) === 0) { 
-                    path = location.pathname;
-                } else { 
-                    path = "/" + location.pathname;
-                } 
-                location.href = "{{ SITEURL }}" + path + location.search + location.hash;
-            }
-        </script>
-        {% endif %}
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         {% if FEED_ALL_ATOM %}
