@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/jamesritchie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jmsrt.ch
+  * I am jamesritchie (https://keybase.io/jamesritchie) on keybase.
+  * I have a public key ASAmPmjccl3ymcMysGLrhUTBjS0wuOEfgbhn7pLSUIyfSQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010114d8b834be1550add695ea302b5c20cbefafd836b2c1955eb7749ff550392e620a",
+            "host": "keybase.io",
+            "kid": "0120263e68dc725df299c332b062eb8544c18d2d30b8e11f81b867ee92d2508c9f490a",
+            "uid": "6fb622eef52775d9278b963cd3730200",
+            "username": "jamesritchie"
+        },
+        "service": {
+            "hostname": "jmsrt.ch",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1491662118,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1491662116,
+        "hash": "a0f01f14e023afb2697707442609ec65468321dd03234005d9813759842baa8aaa0a6699fc4fbab99ed19df69ab3a366489cf0b84d05d420ef9eab23867f2116",
+        "seqno": 1006686
+    },
+    "prev": "1e0e8c8acbff56af782ee7dee8b79e205825693359d10b3073d184362f3121d4",
+    "seqno": 26,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJj5o3HJd8pnDMrBi64VEwY0tMLjhH4G4Z+6S0lCMn0kKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTRkOGI4MzRiZTE1NTBhZGQ2OTVlYTMwMmI1YzIwY2JlZmFmZDgzNmIyYzE5NTVlYjc3NDlmZjU1MDM5MmU2MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjYzZTY4ZGM3MjVkZjI5OWMzMzJiMDYyZWI4NTQ0YzE4ZDJkMzBiOGUxMWY4MWI4NjdlZTkyZDI1MDhjOWY0OTBhIiwidWlkIjoiNmZiNjIyZWVmNTI3NzVkOTI3OGI5NjNjZDM3MzAyMDAiLCJ1c2VybmFtZSI6ImphbWVzcml0Y2hpZSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiam1zcnQuY2giLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMCJ9LCJjdGltZSI6MTQ5MTY2MjExOCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkxNjYyMTE2LCJoYXNoIjoiYTBmMDFmMTRlMDIzYWZiMjY5NzcwNzQ0MjYwOWVjNjU0NjgzMjFkZDAzMjM0MDA1ZDk4MTM3NTk4NDJiYWE4YWFhMGE2Njk5ZmM0ZmJhYjk5ZWQxOWRmNjlhYjNhMzY2NDg5Y2YwYjg0ZDA1ZDQyMGVmOWVhYjIzODY3ZjIxMTYiLCJzZXFubyI6MTAwNjY4Nn0sInByZXYiOiIxZTBlOGM4YWNiZmY1NmFmNzgyZWU3ZGVlOGI3OWUyMDU4MjU2OTMzNTlkMTBiMzA3M2QxODQzNjJmMzEyMWQ0Iiwic2Vxbm8iOjI2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAl8inka6A5mlBrqJQqLDyzPDz++/yq5Gnj8eEsPTeqOoBVeJap/o2uOBq9u1xYjdlGYY6jwU3Mc2idOEvamlgyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAs9fgnDWrXJeyMGXUfXQOImsR7+tnmZXxS5WfcPeAeEaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jamesritchie
+
+==================================================================
