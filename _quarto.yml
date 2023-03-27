@@ -1,0 +1,16 @@
+project:
+  type: website
+  resources: docs/
+
+website:
+  title: "James Ritchie"
+  search: false
+  navbar: false
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

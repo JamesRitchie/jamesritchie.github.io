@@ -1,0 +1,35 @@
+- title: "Density Deconvolution with Normalizing Flows"
+  venue: "Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models Workshop, ICML 2020"
+  authors:
+    - name: "Tim Dockhorn"
+      url: https://timudk.github.io/
+      equal: true
+    - name: "James A. Ritchie"
+      equal: true
+    - name: "Yaoliang Yu"
+      url: https://cs.uwaterloo.ca/~y328yu/
+    - name: "Iain Murray"
+      url: https://homepages.inf.ed.ac.uk/imurray2/
+  links:
+    - name: arXiV
+      url: https://arxiv.org/abs/2006.09396
+    - name: PDF
+      url: https://arxiv.org/pdf/2006.09396.pdf
+    - name: Virtual Poster Talk
+      url: https://slideslive.com/38931472/density-deconvolution-with-normalizing-flows
+    - name: Code
+      url: https://github.com/bayesiains/density-deconvolution
+
+- title: "Scalable Extreme Deconvolution"
+  venue: "Machine Learning and the Physical Sciences Workshop, NeurIPS 2019"
+  authors:
+    - name: "James A. Ritchie"
+    - name: "Iain Murray"
+      url: https://homepages.inf.ed.ac.uk/imurray2/
+  links:
+    - name: arXiV
+      url: https://arxiv.org/abs/1911.11663
+    - name: PDF
+      url: https://arxiv.org/abs/1911.11663.pdf
+    - name: Code
+      url: https://github.com/bayesiains/scalable_xd

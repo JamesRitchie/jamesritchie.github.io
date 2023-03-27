@@ -1,0 +1,49 @@
+---
+title: "James Ritchie"
+about:
+  template: solana
+  image: profile.jpeg
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:hello@james.jmsrt.ch
+    - icon: github
+      text: Github
+      href: https://github.com/JamesRitchie
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jamesaritchie/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/jmsrtch
+    # - icon: mastodon
+    #   text: Mastodon
+    #   href: https://mastodon.social/@jmsrtch
+listing: 
+  - id: publications
+    contents: publications.yml
+    template: publication_list.ejs
+---
+
+I am a postgraduate research student at the [Centre for Doctoral Training in Data Science](https://web.inf.ed.ac.uk/cdt/epsrc-cdt-in-data-science/), part of the [School of Informatics](https://www.ed.ac.uk/informatics) at the University of Edinburgh.
+
+I am interested in Bayesian approaches to machine learning and statistical inference.
+For my PhD I am working on using Bayesian inference for scientific applications that have traditionally presented challenges for probabilistic modelling, as part of [Iain Murray](https://www.ed.ac.uk/informatics)'s research group.
+Applications I have worked on include physiological modelling and density estimation for noisy astronomical datasets.
+
+Before moving to Edinburgh I worked as a data scientist and software engineer in London.
+For my undergraduate degree I studied engineering at the University of Cambridge.
+
+## Publications
+
+:::{#publications}
+:::
+
+## Talks
+
+* **Cside 2018**  
+  We won one of the categories in the Cside 2018 competition, inferring the parameters of an ordinary differential equation model of the cardiac action potential.
+  I gave a talk about our solution at the associated conference.  
+  \[[Slides](/slides/cside_talk.pdf)\]
+
