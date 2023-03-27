@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "James Ritchie",
+    "section": "",
+    "text": "I am a postgraduate research student at the Centre for Doctoral Training in Data Science, part of the School of Informatics at the University of Edinburgh.\nI am interested in Bayesian approaches to machine learning and statistical inference. For my PhD I am working on using Bayesian inference for scientific applications that have traditionally presented challenges for probabilistic modelling, as part of Iain Murray’s research group. Applications I have worked on include physiological modelling and density estimation for noisy astronomical datasets.\nBefore moving to Edinburgh I worked as a data scientist and software engineer in London. For my undergraduate degree I studied engineering at the University of Cambridge."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "James Ritchie",
+    "section": "Publications",
+    "text": "Publications\n\n\n  \n    \n    Density Deconvolution with Normalizing Flows\n    \n        Tim Dockhorn*,\n        James A. Ritchie*,\n        Yaoliang Yu,\n        Iain Murray.\n    \n      *Equal Contribution\n      \n    Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models Workshop, ICML 2020\n    \n        [arXiV]\n        [PDF]\n        [Virtual Poster Talk]\n        [Code]\n    \n  \n  \n    \n    Scalable Extreme Deconvolution\n    \n        James A. Ritchie,\n        Iain Murray.\n    \n    Machine Learning and the Physical Sciences Workshop, NeurIPS 2019\n    \n        [arXiV]\n        [PDF]\n        [Code]\n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#talks",
+    "href": "index.html#talks",
+    "title": "James Ritchie",
+    "section": "Talks",
+    "text": "Talks\n\nCside 2018\nWe won one of the categories in the Cside 2018 competition, inferring the parameters of an ordinary differential equation model of the cardiac action potential. I gave a talk about our solution at the associated conference.\n[Slides]"
+  }
+]
