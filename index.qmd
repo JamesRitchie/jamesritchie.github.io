@@ -42,6 +42,14 @@ For my undergraduate degree I studied engineering at the University of Cambridge
 
 ## Talks
 
+* **Counting Coffee Cups and Photons**  
+  A remote talk I gave at the [ANC](https://web.inf.ed.ac.uk/anc) workshop introducing some preliminary work on the problem of inferring photon counts and energies from CCD sensors used in astronomy.  
+  \[[Slides](/slides/pileup_talk.pdf)\]
+
+* **Density Estimation with Noisy Data**  
+  An introduction and background to our work on Scalable Extreme Deconvolution, plus some thoughts on next steps.  
+  \[[Slides](/slides/deconv_talk.pdf)\]
+
 * **Cside 2018**  
   We won one of the categories in the Cside 2018 competition, inferring the parameters of an ordinary differential equation model of the cardiac action potential.
   I gave a talk about our solution at the associated conference.  
