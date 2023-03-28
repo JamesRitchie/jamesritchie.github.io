@@ -6,6 +6,7 @@ website:
   title: "James Ritchie"
   search: false
   navbar: false
+  favicon: favicon.ico
 format:
   html:
     theme: cosmo
