@@ -1,5 +1,6 @@
 ---
 title: "James Ritchie"
+toc: false
 about:
   id: about-me
   template: solana
