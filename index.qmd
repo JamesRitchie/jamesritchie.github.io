@@ -32,7 +32,7 @@ listing:
 I am a postgraduate research student at the [Centre for Doctoral Training in Data Science](https://web.inf.ed.ac.uk/cdt/epsrc-cdt-in-data-science/), part of the [School of Informatics](https://www.ed.ac.uk/informatics) at the University of Edinburgh.
 
 I am interested in Bayesian approaches to machine learning and statistical inference.
-For my PhD I am working on using Bayesian inference for scientific applications that have traditionally presented challenges for probabilistic modelling, as part of [Iain Murray](https://homepages.inf.ed.ac.uk/imurray2/)'s research group.
+For my PhD I am working on using Bayesian inference and deep learning for scientific applications that have traditionally presented challenges for probabilistic modelling, as part of [Iain Murray](https://homepages.inf.ed.ac.uk/imurray2/)'s research group.
 Applications I have worked on include physiological modelling and density estimation for noisy astronomical datasets.
 
 Before moving to Edinburgh I worked as a data scientist and software engineer in London.
