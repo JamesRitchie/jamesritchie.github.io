@@ -1,3 +1,10 @@
+- title: "Bayesian Inference for Challenging Scientific Models"
+  venue: PhD Thesis, University of Edinburgh, 2023
+  authors:
+    - name: "James A. Ritchie"
+  links:
+    - name: PDF
+      url: docs/thesis.pdf
 - title: "Density Deconvolution with Normalizing Flows"
   venue: "Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models Workshop, ICML 2020"
   authors:
