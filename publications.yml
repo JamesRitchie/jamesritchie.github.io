@@ -3,6 +3,8 @@
   authors:
     - name: "James A. Ritchie"
   links:
+    - name: Edinburgh Research Archive
+      url: https://era.ed.ac.uk/handle/1842/41392
     - name: PDF
       url: docs/thesis.pdf
 - title: "Density Deconvolution with Normalizing Flows"
