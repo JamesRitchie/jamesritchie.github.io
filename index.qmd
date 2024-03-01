@@ -18,7 +18,7 @@ about:
       href: https://www.linkedin.com/in/jamesaritchie/
     - icon: file-earmark-person
       text: CV
-      href: docs/cv.pdf
+      href: docs/james_ritchie_cv.pdf
 listing: 
   - id: publications
     contents: publications.yml
