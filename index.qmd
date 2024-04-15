@@ -27,11 +27,6 @@ listing:
 
 :::{#about-me}
 
-:::{.callout-note}
-## New
-I have succesfully completed my PhD! I am currently looking for machine learning and/or data science-related jobs, either remote or based in Edinburgh. Feel free to [get in touch](mailto:hello@james.jmsrt.ch) if you think I might be a good fit for your organisation.
-:::
-
 I am a machine learning researcher and data scientist based in Edinburgh.
 I was a postgraduate research student at the [Centre for Doctoral Training in Data Science](https://web.inf.ed.ac.uk/cdt/epsrc-cdt-in-data-science/), part of the [School of Informatics](https://www.ed.ac.uk/informatics) at the University of Edinburgh.
 
