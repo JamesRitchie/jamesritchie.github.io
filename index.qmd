@@ -9,10 +9,13 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:hello@james.jmsrt.ch
+      href: mailto:hello@jmsrt.ch
     - icon: github
       text: Github
       href: https://github.com/JamesRitchie
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/jmsrtch
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jamesaritchie/
